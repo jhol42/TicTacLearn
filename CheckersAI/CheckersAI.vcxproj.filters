@@ -26,7 +26,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CheckersAI.cpp">
+    <ClCompile Include="TicTacToeLearn.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
